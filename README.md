@@ -9,3 +9,5 @@ Refer the folder as below
 
 **Session 3** - Linear Regression notebook + data
 
+**Session 5** - SQL_For_DS
+
